@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749808787865",
+    "project_id": "my-fyp-acbce",
+    "storage_bucket": "my-fyp-acbce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749808787865:android:4a4d3197bf3b028cdfb308",
+        "android_client_info": {
+          "package_name": "com.marsad.catchy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvbl9LE1lKpkHEHy6GaXWrvEPvCQL0dcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
